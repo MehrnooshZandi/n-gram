@@ -1,5 +1,6 @@
 # n-gram
-Calculating n-gram with Python
+Calculating n-gram with Python. This was a college exercise.
+
 The given exercise file contains one sentence in each line. Consider each space a separator between words.
 
 How to get the file with Kolb:
